@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+  text-align: center;
+  background-image: linear-gradient(blueviolet,white,blue);
+  border:8px dashed ;
+
+}
+.amina{
+    text-align: center;
+    color: fuchsia;
+}
+ul{
+    color: blue;
+}
+p{
+color: #20B2AA;
+}
+p:hover{
+    color: #FF69B4;
+}
+
+
+
+
+
